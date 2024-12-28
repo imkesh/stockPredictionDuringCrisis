@@ -46,5 +46,3 @@ The project employs the following methods:
 1. Combines econometrics and machine learning for granular sector analysis.
 2. Focuses on sector-specific patterns rather than aggregated market indices.
 3. Provides actionable insights for investors and policymakers.
-
-## Directory Structure
